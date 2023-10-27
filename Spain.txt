@@ -1,0 +1,18 @@
+League Name: Primera División 2020/21
+Clubs:
+Code: CEL, Name: RC Celta Vigo 
+Code: GRA, Name: Granada CF 
+Code: ATH, Name: Athletic Club Bilbao 
+Code: OSA, Name: CA Osasuna 
+Code: BAR, Name: FC Barcelona 
+Code: ELC, Name: Elche CF 
+Code: RMD, Name: Real Madrid 
+Code: GET, Name: Getafe CF 
+Code: BET, Name: Real Betis 
+Code: VID, Name: Real Valladolid CF 
+Code: RSO, Name: Real Sociedad 
+Code: VLL, Name: Villarreal CF 
+Code: VAL, Name: Valencia CF 
+Code: LEV, Name: Levante UD 
+Code: ATL, Name: Atlético Madrid 
+Code: SEV, Name: Sevilla FC 

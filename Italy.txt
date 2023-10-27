@@ -1,0 +1,20 @@
+League Name: Serie A 2020/21
+Clubs:
+Code: FIO, Name: ACF Fiorentina 
+Code: TOR, Name: Torino FC 
+Code: HEL, Name: Hellas Verona 
+Code: ROM, Name: AS Roma 
+Code: PAR, Name: Parma 
+Code: NAP, Name: SSC Napoli 
+Code: GEN, Name: Genoa CFC 
+Code: CRO, Name: FC Crotone 
+Code: SAS, Name: US Sassuolo Calcio 
+Code: CAG, Name: Cagliari Calcio 
+Code: JUV, Name: Juventus 
+Code: SAM, Name: UC Sampdoria 
+Code: MIL, Name: AC Milan 
+Code: BOL, Name: Bologna FC 
+Code: ATA, Name: Atalanta Bergamo 
+Code: LAZ, Name: SS Lazio 
+Code: INT, Name: FC Internazionale Milano 
+Code: UDI, Name: Udinese Calcio 

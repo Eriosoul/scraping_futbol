@@ -1,0 +1,20 @@
+League Name: Bundesliga 2020/21
+Clubs:
+Code: FCB, Name: Bayern München 
+Code: S04, Name: FC Schalke 04 
+Code: FFM, Name: Eintracht Frankfurt 
+Code: DSC, Name: Arminia Bielefeld 
+Code: FCU, Name: 1. FC Union Berlin 
+Code: FCA, Name: FC Augsburg 
+Code: KOE, Name: 1. FC Köln 
+Code: HOF, Name: TSG 1899 Hoffenheim 
+Code: BRE, Name: Werder Bremen 
+Code: BSC, Name: Hertha BSC 
+Code: VFB, Name: VfB Stuttgart 
+Code: SCF, Name: SC Freiburg 
+Code: BVB, Name: Borussia Dortmund 
+Code: BMG, Name: Bor. Mönchengladbach 
+Code: RBL, Name: RB Leipzig 
+Code: M05, Name: 1. FSV Mainz 05 
+Code: WOB, Name: VfL Wolfsburg 
+Code: B04, Name: Bayer 04 Leverkusen 
